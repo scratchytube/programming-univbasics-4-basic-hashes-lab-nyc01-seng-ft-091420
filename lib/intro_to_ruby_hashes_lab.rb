@@ -11,9 +11,7 @@ end
 my_hash
 
 def pioneer
-  animals = {
-    name: "Grace Hopper"
-  }
+  { name: "Grace Hopper" }
 end
 
 
