@@ -6,9 +6,6 @@ def my_hash
  hashy = {
    name: "Foxy",
    species: "Human"
-   
-   name: "Liz",
-   species: "Demon"
  }
 end
 hashy
